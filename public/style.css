@@ -1,0 +1,79 @@
+body{
+    /* background-color: #b7f4d8; */
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoolbackgrounds.io%2F&psig=AOvVaw29nJ9T5LflT2_GBvliBNxN&ust=1674630077565000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCw9qjR3_wCFQAAAAAdAAAAABAJ);
+}
+.container-fluid{
+    background-color: #68c3a3;
+    box-shadow: black;
+    padding-right: 2rem;
+}
+
+/* .EntryPage{
+    padding: 1rem 5rem 5rem 5rem;
+} */
+.row{
+    padding: 5rem;
+}
+.entry-button{
+    margin: 2rem 2rem 2rem 2rem;
+    padding: 1rem,1rem,1rem,1rem;
+    width: 7rem;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.box{
+    padding-top: 4rem;
+}
+
+.inputbox{
+    margin-bottom: 2rem;
+}
+
+.submitbuttons{
+    width: 7rem;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.Label{
+    margin-right: 2rem;
+}
+
+.head_on_profile{
+    margin-top: 8rem;
+}
+
+.inputbox_profile{
+    width: 20rem;
+    margin-bottom: 1rem;
+}
+.taketestbut{
+    margin: 2rem 2rem 2rem 2rem;
+    padding: 2rem,2rem,2rem,2rem;
+    width: 7rem;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    border-radius: 12px;
+}
+.taketestbut:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.addque{
+    margin: 2rem 2rem 2rem 2rem;
+    padding: 2rem,2rem,2rem,2rem;
+    width: 8rem;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    border-radius: 12px;
+}
+.addque:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.logout{
+    border-radius: 4px;
+}
